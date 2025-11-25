@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MEDAT Corp</string>
+    <string name="labelUsuario">Ingresar Usuario</string>
+    <string name="labelContraseña">Ingresar Contraseña</string>
+</resources>
